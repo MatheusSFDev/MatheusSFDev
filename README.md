@@ -16,7 +16,7 @@
 </pre>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=600&lines=Hi!+Matheus+Souza+Here!;I'm+a+Full-Stack+Developer+%E2%8C%A8%EF%B8%8F;And+a+passionate+gamer++%F0%9F%95%B9%EF%B8%8F;Contact+Me+%5E_%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFFFFF&vCenter=true&repeat=true&width=600&lines=Hi!+Matheus+Souza+Here!;I'm+a+Full-Stack+Developer+%E2%8C%A8%EF%B8%8F;And+a+passionate+gamer++%F0%9F%95%B9%EF%B8%8F;Contact+Me+%5E_%5E)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
@@ -26,10 +26,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-souza-fernandes-6a7346347" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo">
   </a>
+
   <a href="https://www.instagram.com/mateo_souza_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo">
   </a>
 </div>
 
