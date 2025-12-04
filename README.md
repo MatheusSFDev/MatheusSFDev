@@ -1,5 +1,6 @@
 ###
 
+<div align="center">
 <pre>
       ___           ___           ___       ___           ___           ___           ___     
      ╱╲__╲         ╱╲  ╲         ╱╲__╲     ╱╲  ╲         ╱╲  ╲         ╱╲__╲         ╱╲  ╲    
@@ -13,8 +14,9 @@
     ╲::╱  ╱       ╲:╲__╲        ╲:╲__╲    ╲:╲__╲        ╲::╱  ╱        ╱:╱  ╱       ╲:╲__╲    
      ╲╱__╱         ╲╱__╱         ╲╱__╱     ╲╱__╱         ╲╱__╱         ╲╱__╱         ╲╱__╱                                                                                                    
 </pre>
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=379743&center=true&vCenter=true&repeat=false&width=600&lines=Hi!+Matheus+Souza+Here!;I'm+a+Full-Stack+Developer+%E2%8C%A8%EF%B8%8F;And+a+passionate+gamer++%F0%9F%95%B9%EF%B8%8F;Contact+Me+%5E_%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FFFFFF&vCenter=true&repeat=false&width=600&lines=Hi!+Matheus+Souza+Here!;I'm+a+Full-Stack+Developer+%E2%8C%A8%EF%B8%8F;And+a+passionate+gamer++%F0%9F%95%B9%EF%B8%8F;Contact+Me+%5E_%5E)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" />
